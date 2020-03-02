@@ -137,7 +137,7 @@
   "world.unit.movement": "Bewegen",
   "world.unit.range": "Reichweite",
   "world.unit.disembark.title": "Verlasse {0}",
-  "world.unit.disembark.message": Dein {0} wird beim verlassen abgebaut. Möchtest du fortfahren?",
+  "world.unit.disembark.message": "Dein {0} wird beim verlassen abgebaut. Möchtest du fortfahren?",
   "world.unit.evolve": "Deine Einheit ist zu einem {0} geworden!",
   "world.unit.evolve.title": "Wachstum",
   "world.unit.dissolved": "Deine Einheit wurde aufgelöst",
