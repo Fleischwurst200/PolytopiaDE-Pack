@@ -71,7 +71,7 @@
   "gamesettings.mode": "Gefechtsmodus",
   "gamesettings.createslot": "Erstelle Spielslot...",
   "gamesettings.createslot.error": "Fehler beim Erstellen des Spielslots",
-  "gamesettings.createslot.error.info": Überprüfe deine Internetverbindung und versuche es anschließend erneut.",
+  "gamesettings.createslot.error.info": "Überprüfe deine Internetverbindung und versuche es anschließend erneut.",
   "gamesettings.size": "Kartengröße",
   "gamesettings.size.tiny": "Klein",
   "gamesettings.size.normal": "Normal",
